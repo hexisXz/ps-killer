@@ -1,0 +1,5 @@
+#!/usr/bin/sh
+
+
+e="$(ps -eF | awk -F ' ' '{print $11}' | fzf)" && pkill -f $e && echo "killed all selected processes." || exit 1
+

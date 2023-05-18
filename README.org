@@ -1,0 +1,19 @@
+* about
+
+ps-killer is a utill like ps-lookup except it kills processes.
+
+
+
+* before installing
+
+before you install ps-killer you need to install fzf and git.
+
+
+
+* how to install 
+
+to install paste this in your terminal.
+
+#BEGIN_src sh 
+curl -L -O "" && sh install.sh
+#END_src
