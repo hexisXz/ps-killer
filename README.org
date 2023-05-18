@@ -15,5 +15,5 @@ before you install ps-killer you need to install fzf and git.
 to install paste this in your terminal.
 
 #+BEGIN_src sh 
-curl -L -O "https://raw.githubusercontent.com/hexisXz/ps-killer/main/install" && sh install.sh
+curl -L -O "https://raw.githubusercontent.com/hexisXz/ps-killer/main/install" && sh install
 #+END_src
